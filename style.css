@@ -1,0 +1,303 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+}
+#head{
+    margin-bottom:-40px ;
+}
+#head ul{
+    padding-left: 84px;
+    margin-bottom: 10px;
+}
+#text1{
+    font-size: 14px;
+    font-weight: 40;
+    color: white;
+}
+#text{
+    padding-left: 40px;
+}
+#sec{
+    width: 100%;
+    height: 500px;
+    background-image: url(sports\ banner\ 1.png);
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#text p:first-child{
+    padding-top: 150px;
+    font-size: 45px;
+    color: white;
+}
+#text p:nth-child(2){
+    font-size: 45px;
+    color: white;
+}
+#text p:nth-child(3){
+    font-size: 15px;
+    color: white;
+}
+#text span{
+    color: rgb(169, 63, 6);
+    font-weight: 500;
+}
+#text p{
+    font-weight: 500;
+}
+#text a div{
+    width: 170px;
+    height: 45px;
+    color: white;
+    border: 2px solid white;
+    background-color: rgb(54, 51, 51);
+    text-align: center;
+    padding-top: 8px;
+    border-radius:5px;
+}
+#text a div:hover{
+    background-color: whitesmoke;
+    border: 2px solid black;
+    color: red;
+    box-shadow:0 0 4px white ;
+}
+#cir{
+    width: 188px;
+    height: 188px;
+    border-radius: 100%;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(Untitled-1ww\ 6.png);
+    padding-left: 20px;
+    margin-left: 20px;
+}
+#cir:nth-child(7){
+    padding-left: 30px;
+    padding-top: 35px;
+}
+ #cir:nth-child(3){
+    padding-left: 55px;
+}
+#cir:nth-child(5){
+    padding-left: 20px;
+    padding-top: 15px;
+}
+#cir:nth-child(2){
+    padding-left: 40px;
+    padding-top: 10px;
+}
+#cir:nth-child(4){
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#k {
+    padding-top: 40px;
+    padding-right: 45px;
+}
+#k1{
+    padding-top: 10px;
+    padding-right: 45px;
+}
+#k2 {
+    padding-top: 43px;
+    padding-right: 10px;
+}
+#k4{
+        padding-top: 30px;
+        padding-right: 10px;
+}
+#k5{
+    padding-top: 40px;
+    padding-right: 10px;
+}
+#text4 p:first-child , #text5 p:first-child , #item p:first-child{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+}
+#text4 p:nth-child(2) , #text5 p:nth-child(2) , #item p:nth-child(2){
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+#sq , #sq2 ,#sq3 , #sq4{
+    width: 304px;
+    height: 393px;
+    border-radius: 20px;
+    padding-right: 20px;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sq{
+    background-image: url(basketball-in-hoop-2022-05-26-01-01-05-utc\ 1.png);
+}
+#sq2{
+    background-image: url(boxing-training-and-punching-bag-2021-08-26-17-43-20-utc\ 1.png);
+}
+#sq3{
+    background-image: url(cricket.png);
+}
+#sq4{
+    background-image: url(img/soccer.png);
+}
+#sq1 p{
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+#circ2{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin-right: 620px;
+}
+.cir3{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin: auto;
+    background-color: white;
+}
+.cir3 img{
+    margin: 40px;
+}
+#cir2 p{
+    font-size: 24px;
+    font-weight: 500;
+}
+#cir2 p:last-child{
+    font-size: 16px;
+    font-weight: 400;
+}
+#shop1 , #shop2 , #shop3 , #shop4 , #shop5 {
+    width: 160px;
+    height: 160px;
+    margin-right: 77px;
+    border-radius: 100%;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#shop1{
+    background-image: url(aero.png);
+    /* margin-left: 90px; */
+}
+#shop2{
+    background-image: url(swim.png);
+}
+#shop3{
+    background-image: url(cycle.png);
+}
+#shop4{
+    background-image: url(yoga.png);
+}
+#shop5{
+    background-image: url(box.png);
+}
+#shop1 p , #shop2 p , #shop3 p , #shop4 p , #shop5 p{
+   padding-top: 90px;
+   color: rgba(255, 255, 255, 1);
+   font-size: 14px;
+   font-weight: 700;
+}
+#squar1 , #squar2 ,#squar3 , #squar4{
+    width: 300px;
+    height: 396px;
+    border-radius: 20px;
+    margin-left: 27px;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#squar1{
+    background-image: url(combo.png);
+}
+#squar2{
+    background-image: url(cap.png);
+}
+#squar3{
+    background-image: url(training.png);
+}
+#squar4{
+    background-image: url(Background.png);
+}
+#squar1 p:first-child{
+    width: 45px;
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+    background-color: rgba(58, 123, 213, 1);
+    color: white;
+    margin-top: 10px;
+}
+#squar1 p:nth-child(2) , #squar2 p{
+    width: 45px;
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+    background-color: rgb(220, 147, 12);
+    color: white;
+}
+#heart{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: white;
+    align-items: end;
+    margin-bottom: 10px;
+    margin-left: 220px;
+}
+#heart img{
+    margin-top: 8px ;
+    margin-right: 7px ;
+}
+#img1 img{
+    width: 100%;
+    height: 100%;
+}
+#img2 img{
+    width: 100%;
+    height: 85%;
+    margin-top: 5px;
+}
+#foot-text p{
+    font-size: 20px;
+    font-weight: 500;
+}
+#foot-text ul li{
+    padding-left: 20px;
+}
+#copy{
+    color: gray;
+}
+#copy span{
+    color: white;
+}
+#disc{
+    display: flex;
+}
+
+
+
+
+@media (max-width:645px){
+    #disc{
+        display: inline-block;
+    }
+    #squar1 , #square2 , #squar3 , #square4{
+        margin-top: 10px;
+    }
+}
